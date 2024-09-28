@@ -15,7 +15,7 @@ body {
 
 @font-face {
   font-family: FontOne;
-  src: url(/font/Product\ Sans\ Regular.ttf);
+  src: url(./font/Product\ Sans\ Regular.ttf);
 }
 
 #main {
