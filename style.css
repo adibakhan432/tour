@@ -533,26 +533,26 @@ input:checked + label .description {
   background-position: center;
 }
 .card[for="c2"] {
-  background-image: url("/assets/tour.jpg");
+  background-image: url("./assets/tour.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .card[for="c3"] {
-  background-image: url("/assets/local.jpg");
+  background-image: url("./assets/local.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 .card[for="c4"] {
-  background-image: url("/assets/adven.jpg");
+  background-image: url("./assets/adven.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .card[for="c5"] {
-  background-image: url("/assets/eco.jpg");
+  background-image: url("./assets/eco.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -774,7 +774,7 @@ input:checked + label .description {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url("/assets/bali.jpg");
+  background-image: url("./assets/bali.jpg");
   background-size: cover;
   background-position: center;
   border-radius: 20px;
@@ -811,7 +811,7 @@ input:checked + label .description {
 }
 
 .float-2 .float-1-img {
-  background-image: url("/assets/dubai.jpg");
+  background-image: url("./assets/dubai.jpg");
   position: absolute;
   width: 100%;
   height: 100%;
@@ -831,7 +831,7 @@ input:checked + label .description {
 }
 
 .float-3 .float-1-img {
-  background-image: url("/assets/rajasthan.jpg");
+  background-image: url("./assets/rajasthan.jpg");
   position: absolute;
   width: 100%;
   height: 100%;
@@ -851,7 +851,7 @@ input:checked + label .description {
 }
 
 .float-4 .float-1-img {
-  background-image: url("/assets/mald.jpg");
+  background-image: url("./assets/mald.jpg");
   position: absolute;
   width: 100%;
   height: 100%;
@@ -871,7 +871,7 @@ input:checked + label .description {
 }
 
 .float-5 .float-1-img {
-  background-image: url("/assets/agra.jpg");
+  background-image: url("./assets/agra.jpg");
   position: absolute;
   width: 100%;
   height: 100%;
@@ -891,7 +891,7 @@ input:checked + label .description {
 }
 
 .float-6 .float-1-img {
-  background-image: url("/assets/udai.jpg");
+  background-image: url("./assets/udai.jpg");
   position: absolute;
   width: 100%;
   height: 100%;
@@ -911,7 +911,7 @@ input:checked + label .description {
 }
 
 .float-7 .float-1-img {
-  background-image: url("/assets/manali.jpg");
+  background-image: url("./assets/manali.jpg");
   position: absolute;
   width: 100%;
   height: 100%;
@@ -947,7 +947,7 @@ input:checked + label .description {
 }
 
 #img-world {
-  background-image: url("/assets/back.jpg");
+  background-image: url("./assets/back.jpg");
   background-size: cover;
   background-position: center;
 }
